@@ -1,0 +1,17 @@
+2022-10-13 16:42:29.378 [main] INFO  org.example.App - 6
+2022-10-13 16:42:55.094 [main] INFO  org.example.App - 5
+2022-10-13 16:46:44.133 [main] INFO  org.example.App - 9
+2022-10-13 16:47:02.100 [main] INFO  org.example.App - 5
+2022-10-13 17:03:59.188 [main] INFO  org.example.App - 5
+2022-10-13 17:04:19.765 [main] INFO  org.example.App - 5
+2022-10-13 17:20:28.010 [main] INFO  org.example.App - 5
+2022-10-13 17:21:43.410 [main] INFO  org.example.App - 5
+2022-10-13 17:22:46.680 [main] INFO  org.example.App - 5
+2022-10-13 17:22:55.775 [main] INFO  org.example.App - 5
+2022-10-13 17:25:38.816 [main] INFO  org.example.App - РћРїС‚РёРјР°Р»СЊРЅС‹Р№ Р±Р°Р·РѕРІС‹Р№ РїР°СЂР°РјРµС‚СЂ: 5
+2022-10-13 17:25:45.067 [main] INFO  org.example.App - 5
+2022-10-13 17:25:55.285 [main] INFO  org.example.App - 5
+2022-10-13 17:26:11.519 [main] INFO  org.example.App - Оптимальный базовый параметр: 5
+2022-10-13 17:26:48.156 [main] INFO  org.example.App - Optimal base parameter: 5
+2022-10-13 17:27:14.653 [main] INFO  org.example.App - Optimal base parameter: 5
+2022-10-13 22:31:31.034 [main] INFO  org.example.App - Optimal base parameter: 5
